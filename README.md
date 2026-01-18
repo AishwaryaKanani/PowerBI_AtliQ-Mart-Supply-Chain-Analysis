@@ -18,17 +18,19 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 Create the metrics according to the metrics list. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic. Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 # Data Model
+![_data model_](https://github.com/AishwaryaKanani/PowerBI_AtliQ-Mart-Supply-Chain-Analysis/blob/main/Resources/Data_model.png)
 
 
 # Dashboard
+![_dashboard_](https://github.com/AishwaryaKanani/PowerBI_AtliQ-Mart-Supply-Chain-Analysis/blob/main/Resources/Dashboard_Thumbnail.png)
 
 
-Some Major Insights
-All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
-On an average, orders are delayed 0.42 days from the agreed date of delivery
-Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
-Is it because we are not estimating the right delivery date?
-Is it because we are receiving more orders than expected?
-Ghee, curd and butter products are most delayed to deliver.
-There is no noticeable improvements in any of the key metrics in the last few months
-There is a huge gap in IF% for most of the customers. Is it because of less production?
+# Some Major Insights
+- All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
+- On an average, orders are delayed 0.42 days from the agreed date of delivery
+- Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
+   - Is it because we are not estimating the right delivery date?
+   - Is it because we are receiving more orders than expected?
+- Ghee, curd and butter products are most delayed to deliver.
+- There is no noticeable improvements in any of the key metrics in the last few months
+- There is a huge gap in IF% for most of the customers. Is it because of less production?
