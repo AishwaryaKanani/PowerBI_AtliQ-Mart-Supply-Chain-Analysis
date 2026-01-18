@@ -1,9 +1,9 @@
 # PowerBI_AtliQ-Mart-Supply-Chain-Analysis
 As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
 
-Live Dashboard Link (https://shorturl.at/qimYd)
+Live Dashboard: [_Link_](https://shorturl.at/qimYd)
 
-Presentation Video Link (https://www.linkedin.com/posts/aishwaryakanani_codebasics-codebasicsresumechallenge-supplychain-activity-7408898755376078849-3_e-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADqnB8gB_x1vyEg35NlTzQ1ToxAC6jNkLvg)
+Presentation Video: [_Link_](https://www.linkedin.com/posts/aishwaryakanani_codebasics-codebasicsresumechallenge-supplychain-activity-7408898755376078849-3_e-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADqnB8gB_x1vyEg35NlTzQ1ToxAC6jNkLvg)
 
 # Problem statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
